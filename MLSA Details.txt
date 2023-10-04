@@ -1,0 +1,115 @@
+What is Microsoft Learn Student Ambassadors, KIIT Chapter?
+Microsoft Learn Student Ambassadors, KIIT Chapter is a technical society in KIIT which comes officially under the Microsoft Corporation. 
+ 
+Our Vision: MLSA envisions a world where everyone has access to the benefits of technology. We believe that technology has the potential to be an effective tool for education.We are committed to educating everyone about various tech stacks, thus keeping them updated.
+
+Our Goal: Connecting people with technology and assisting them in using it to enhance their lives are the two main objectives of MLSA. In order to achieve this, we organize events, work on projects, and educate everyone on various tech stacks.
+
+Our Mission: The mission of MLSA is "Tech for All". We empower individuals to embrace the digital world with confidence through engaging events, innovative projects, and meaningful connections. We are dedicated to bridging the technological divides, ensuring that no one is left behind.
+
+What are the past events of MLSA, KIIT Chapter?
+
+The Past Events of Microsoft Learn Student Ambassadors, KIIT Chapter include:
+
+1. Stark Expo : Conducted On 3rd September 2023 with 2000+ Participants
+
+2. Eye S.py Squid : Conducted On 16th April 2023 with 1368 Participants
+
+3. KALKI Computer Vision: Conducted On 11th February 2023 with 844 Participants
+
+4. KALKI AR/VR: Conducted On 11th February 2023 with 844 Participants
+
+5. KALKI Scavenger Hunt: Conducted On 11th February 2023 with 844 Participants
+
+6. Project Wing 3.0: Conducted On 13th November 2022 
+
+And Many More !! For More Details Visit Projects Section In Our Website....
+
+What are the Upcoming Events of MLSA, KIIT Chapter?
+
+To Be Updated Soon !!
+
+What are the domains in MLSA, KIIT Chapter?
+
+There are multiple domains to work in Microsoft Learn Student Ambassadors, KIIT Chapter.
+
+I. Technical
+
+Our tech-savvy team of innovators and problem solvers. With their expertise in cutting-edge tools and technologies, they create seamless digital experiences, thus making learning lively and fun
+
+II. Creative
+
+Our team of imaginative minds who breathe life into ideas with their boundless creativity. With their diverse skill sets, they transform visions into stunning works of art, leaving audiences awestruck
+
+III. Operations
+
+Our operations team is the backbone of our society. With their exceptional organizational skills, they handle logistics, coordination, and resource management, enabling seamless execution of projects and initiatives.
+
+IV. Marketing
+
+Our team of zealous minds who amplify the voice of MLSA, helping us link with the audience and corporate world. Their creative thinking, market insights, and innovative tactics drive our success
+
+V. Youtube
+
+A team of creative minds who bring our ideas to life. Through their mastery of video storytelling, exceptional editing skills, and a deep understanding of YouTube, they craft engaging content to captivate viewers
+
+VI. Design
+
+A team of visionary artists breathing life into ideas through their exceptional skill set. With their keen eye for aesthetics and creative expertise, they transform concepts into stunning visual experiences
+
+What are the projects done in MLSA, KIIT Chapter?
+
+Our Projects
+
+I. Tango Charlie Browser
+
+Web Browser made in CEFsharp framework with the MongoDB Database.
+
+II. DebaterX
+
+Written in Python and Jupyter Notebooks
+
+III. Code Portal
+
+One-stop online portal to code, practice and learn from zero to expert
+
+IV. Algorithm VE
+
+Project was bootstrapped with Create React App.
+
+V. Daedarus
+
+DaeDarus' Hackathon Official Website
+
+VI. FlutterVerse
+
+app written in Flutter
+
+VII. BubblePod-Backend
+
+DBMS fully functional Clustering fully functional API functional
+
+VIII. DDoS-project-wing
+
+DDOS projects
+
+IX. Gesture-Navigation-System
+
+Gesture Naviagation Project
+
+X. Resume Nest
+
+A one stop solution for every job seeking individual !
+
+How to Join MLSA, KIIT Chapter
+
+Microsoft Learn Student Ambassadors, KIIT Chapter recruits talented individuals every year across all its domains. To join us, candidate must be proefficient and skilled in their particular domain and must show commitment towards the growth and development of the community. 
+
+How to Contact Us? 
+
+To contact and reach us visit :
+
+Instagram Handle: @mlsakiit
+Email ID: mlsakiit@outlook.com
+
+
